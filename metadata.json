@@ -1,0 +1,6 @@
+{
+  "name": "CreatorPilot - AI Growth Coach & Social Monitor",
+  "description": "Mobile-first creator growth analysis app tracking real-time multi-platform metrics (YouTube, Instagram, TikTok, X), trends, drop-off retention, AI voice coach, and instant VS Code import bridge.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
